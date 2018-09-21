@@ -1,0 +1,42 @@
+body, html
+	{
+	height: 100%;
+	}
+
+	.bg {
+		background-image: url("bg2.jpg");
+        height: auto;
+		width: 100%
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+	table ,th,td{
+	border: 1px solid black;
+	}
+	.a {
+    background-color: blue;
+    width: 30px;
+	height: 30px;
+    color:#ffffff;
+    
+	}
+	.first{
+	color:#ffffff;
+	font-weight:bold;
+	}
+	.others{
+	color:#00abff;
+	font-weight:bold;
+	}
+	.cc{
+	background-color:#f2f3f4;
+	}
+	.top
+	{
+		background-color:#00abff;
+	}
+	.lb{
+	font-family: 'Pacifico', cursive;
+	}
